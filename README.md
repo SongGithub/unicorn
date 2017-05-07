@@ -1,4 +1,4 @@
-Quick and dirty Python test for potential developers at Common Code
+Quick and dirty Python test
 
   - download the `solution.py` and `test.py` files
   - implement the 4 functions in the `solution.py` file
